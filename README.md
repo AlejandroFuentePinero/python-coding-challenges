@@ -20,7 +20,7 @@ Each challenge mirrors a realistic mini-scenario — from small data systems and
 ## Contents
 | # | Project | Focus | Level |
 |---|----------|--------|--------|
-| 01 | [Grades Tracker](./challenge_01_grades_tracker) | Dictionaries, loops, functions | Easy |
+| 01 | Grades Tracker | Dictionaries, loops, functions | Easy |
 
 ---
 
