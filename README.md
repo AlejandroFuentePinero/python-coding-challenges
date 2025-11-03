@@ -21,6 +21,7 @@ Each challenge mirrors a realistic mini-scenario — from small data systems and
 | # | Project | Focus | Level |
 |---|----------|--------|--------|
 | 01 | Grades Tracker | Dictionaries, loops, functions | Easy |
+| 02 | Sensor Data Sanity Check | Validation, loops, list comprehensions, conditionals | Easy–Medium |
 
 ---
 
