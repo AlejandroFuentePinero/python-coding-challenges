@@ -26,7 +26,7 @@ Each challenge mirrors a realistic mini-scenario — from small data systems and
 | 04 | Budget Tracker | Dictionaries, loops, aggregation, sorting, user input, error handling | Medium |
 | 05 | Transaction Log Validator | Validation, error handling, dict/list operations | Easy–Medium |
 | 06 | Temperature Data Summary & Visualisation | Data cleaning, nested dictionaries, numerical summaries, plotting facets | Medium–Advanced |
-
+| 07 | To-Do Organizer | File I/O, validation, text cleaning, list operations, control flow | Easy–Medium |
 ---
 
 ## Goals
