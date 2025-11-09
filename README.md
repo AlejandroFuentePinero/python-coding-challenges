@@ -28,6 +28,7 @@ Each challenge mirrors a realistic mini-scenario — from small data systems and
 | 06 | Temperature Data Summary & Visualisation | Data cleaning, nested dictionaries, numerical summaries, plotting facets | Easy–Medium |
 | 07 | To-Do Organizer | File I/O, validation, text cleaning, list operations, control flow | Easy–Medium |
 | 08 | Portfolio Snapshot (Data Alignment, Returns, Volatility) | Pivoting, grouping, NaN handling, rolling ops | Medium |
+| 09 | Bookstore Sales Cleaner and Analyser | Data cleaning, regex, error handling, Matplotlib dual-axis plotting | Easy–Medium |
 ---
 
 ## Goals
