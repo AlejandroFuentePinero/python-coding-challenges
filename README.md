@@ -29,6 +29,7 @@ Each challenge mirrors a realistic mini-scenario — from small data systems and
 | 07 | To-Do Organizer | File I/O, validation, text cleaning, list operations, control flow | Easy–Medium |
 | 08 | Portfolio Snapshot (Data Alignment, Returns, Volatility) | Pivoting, grouping, NaN handling, rolling ops | Medium |
 | 09 | Bookstore Sales Cleaner and Analyser | Data cleaning, regex, error handling, Matplotlib dual-axis plotting | Easy–Medium |
+| 10 | Missing Data Operations Series | Missingness detection, quantification, visualization, imputation | Easy |
 ---
 
 ## Goals
