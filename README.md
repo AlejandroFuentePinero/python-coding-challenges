@@ -18,4 +18,5 @@ A growing collection of short (10–60 min) narrative-style coding projects desi
 | 09 | Bookstore Sales Cleaner and Analyser | Data cleaning, regex, error handling, Matplotlib dual-axis plotting | Easy–Medium |
 | 10 | Missing Data Operations Series | Missingness detection, quantification, visualization, imputation | Easy |
 | 11 | Regex drills mini series | Regex fundamentals | Easy |
+| 12 | Model Evaluation & Scoring System | Dictionaries, aggregation, weighted ratios, sorting, nested comparisons, reporting | Medium |
 ---
