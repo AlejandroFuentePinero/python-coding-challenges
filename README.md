@@ -1,10 +1,12 @@
 # Python Coding Challenges
 
-A growing collection of short (10–60 min) narrative-style coding projects designed to strengthen **Python reasoning, design thinking, and problem-solving fluency**.
+A collection of short (30–60 minute) narrative-style coding projects designed to build fluency in **Python reasoning, design thinking, and practical problem-solving**.  
+Each challenge focuses on clear logic, clean code structure, and purposeful use of core Python tools.
 
 ---
 
 ## Contents
+
 | # | Project | Focus | Level |
 |---|----------|--------|--------|
 | 01 | Grades Tracker | Dictionaries, loops, functions | Easy |
@@ -14,9 +16,12 @@ A growing collection of short (10–60 min) narrative-style coding projects desi
 | 05 | Transaction Log Validator | Validation, error handling, dict/list operations | Easy–Medium |
 | 06 | Temperature Data Summary & Visualisation | Data cleaning, nested dictionaries, numerical summaries, plotting facets | Easy–Medium |
 | 07 | To-Do Organizer | File I/O, validation, text cleaning, list operations, control flow | Easy–Medium |
-| 08 | Portfolio Snapshot (Data Alignment, Returns, Volatility) | Pivoting, grouping, NaN handling, rolling ops | Medium |
+| 08 | Portfolio Snapshot (Data Alignment, Returns, Volatility) | Pivoting, grouping, NaN handling, rolling operations | Medium |
 | 09 | Bookstore Sales Cleaner and Analyser | Data cleaning, regex, error handling, Matplotlib dual-axis plotting | Easy–Medium |
 | 10 | Missing Data Operations Series | Missingness detection, quantification, visualization, imputation | Easy |
-| 11 | Regex drills mini series | Regex fundamentals | Easy |
+| 11 | Regex Drills Mini Series | Regex fundamentals | Easy |
 | 12 | Model Evaluation & Scoring System | Dictionaries, aggregation, weighted ratios, sorting, nested comparisons, reporting | Medium |
+
 ---
+
+Each challenge encourages deliberate practice in writing clear functions, handling edge cases, validating inputs, and reasoning through a problem from first principles. The collection evolves over time as new challenges are added.
