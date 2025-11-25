@@ -1,5 +1,5 @@
 # Python Coding Challenges
-
+### This repo is for daily coding practice; not a polished project
 A collection of short (30–60 minute) narrative-style coding projects designed to build fluency in **Python reasoning, design thinking, and practical problem-solving**.  
 Each challenge focuses on clear logic, clean code structure, and purposeful use of core Python tools.
 
