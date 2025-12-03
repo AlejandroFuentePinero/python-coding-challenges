@@ -21,6 +21,7 @@ Each challenge focuses on clear logic, clean code structure, and purposeful use 
 | 10 | Missing Data Operations Series | Missingness detection, quantification, visualization, imputation | Easy |
 | 11 | Regex Drills Mini Series | Regex fundamentals | Easy |
 | 12 | Model Evaluation & Scoring System | Dictionaries, aggregation, weighted ratios, sorting, nested comparisons, reporting | Medium |
+| 13 | Neighborhood Gym Check-in Analytics | Pandas grouping, datetime handling, aggregation, time-based summaries | Easy–Medium|
 
 ---
 
