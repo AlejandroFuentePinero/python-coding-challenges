@@ -24,6 +24,8 @@ Each challenge focuses on clear logic, clean code structure, and purposeful use 
 | 13 | Neighborhood Gym Check-in Analytics | Pandas grouping, datetime handling, aggregation, time-based summaries | Easy–Medium|
 | 14 | Tiny Telemetry Pipeline | Pandas, vectorised operations, aggregation, pipeline functions | Medium |
 | 15  | Coffee Cart Revenue Mystery| Pandas cleaning, category standardisation, numeric parsing, revenue calculation, cart-level summaries, anomaly checks | Medium |
+| 16 | Sensor Drift & Anomaly Detector | Pandas + NumPy, groupby/transform, z-scores, anomaly detection, clipping, datetime handling, visualisation | Medium |
+
 
 ---
 
